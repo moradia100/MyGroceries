@@ -1,14 +1,7 @@
-<<<<<<< HEAD
+
 language: cpp 
 os: linux
 
 script:
   -make clean
   -make
-=======
-language: cpp
-os: linux
-script:
-    - make clean
-    - make
->>>>>>> 68b97d469ef79cb1a65668db34fa593aef251204
